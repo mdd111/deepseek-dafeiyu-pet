@@ -1,0 +1,193 @@
+{
+  "mode": "still",
+  "size": 0.36,
+  "topmost": true,
+  "passthrough": false,
+  "autostart": false,
+  "x": 1200,
+  "y": 700,
+  "ds_api_key": "",
+  "city": "",
+  "city_list": [],
+  "balance_always": false,
+  "snap_on": true,
+  "flip_on_left": true,
+  "locked": false,
+  "turn_cost_on": true,
+  "skin": "大肥鱼",
+  "sound_on": true,
+  "sound_set": "小黄鸭",
+  "volume": 0.21,
+  "show_peak": true,
+  "peak_style": "默认",
+  "bubble_style": "auto",
+  "line_freq": "正常",
+  "lyric_offset": 0.2,
+  "layer": "top",
+  "opacity": 0.95,
+  "process_alerts": true,
+  "app_time_on": true,
+  "app_time_lines": {
+    "steam.exe": {
+      "minutes": 60,
+      "repeat": 0,
+      "on": true,
+      "lines": [
+        "{app} 玩了一个多小时咯，起来动动嘛",
+        "一个小时啦～眼睛也要喘口气的"
+      ]
+    },
+    "wegame.exe": {
+      "minutes": 60,
+      "repeat": 0,
+      "on": true,
+      "lines": [
+        "{app} 一个小时了，站起来晃两步嘛",
+        "打了一个多小时咯，腰还撑得住吗"
+      ]
+    },
+    "league of legends.exe": {
+      "minutes": 90,
+      "repeat": 0,
+      "on": true,
+      "lines": [
+        "{app} 一个半小时了，赢了也别再加一局哦",
+        "峡谷再好看也得歇歇呀"
+      ]
+    },
+    "genshinimpact.exe": {
+      "minutes": 60,
+      "repeat": 0,
+      "on": true,
+      "lines": [
+        "{app} 一小时咯，眼睛离屏幕远一点点",
+        "一个小时啦，起来走两步再玩嘛"
+      ]
+    },
+    "douyin.exe": {
+      "minutes": 40,
+      "repeat": 0,
+      "on": true,
+      "lines": [
+        "{app} 刷了四十分钟啦，抬头看看我嘛",
+        "再刷下去天就黑咯，真的"
+      ]
+    },
+    "code.exe": {
+      "minutes": 90,
+      "repeat": 0,
+      "on": true,
+      "lines": [
+        "{app} 一个半小时了，喝口水，脖子也动动",
+        "九十分钟啦，起来走两步再战嘛"
+      ]
+    },
+    "chatgpt.exe": {
+      "minutes": 90,
+      "repeat": 0,
+      "on": true,
+      "lines": [
+        "{app} 聊了一个半小时咯，起来伸个懒腰",
+        "一个半小时了，记得喝水哦"
+      ]
+    }
+  },
+  "timed_on": true,
+  "timed_lines": [
+    {
+      "id": "builtin-night",
+      "when": "daily",
+      "time": "23:30",
+      "days": [],
+      "every": 0,
+      "on": true,
+      "summary": true,
+      "lines": [
+        "23:30 咯，早点睡嘛，明天的事明天再说",
+        "都这个点啦？眼睛也要下班的哦"
+      ]
+    }
+  ],
+  "hotkeys_on": true,
+  "hotkeys": [
+    {
+      "id": "builtin-praise",
+      "seq": "Ctrl+Alt+1",
+      "act": "lines",
+      "on": true,
+      "lines": [
+        "哇！这一下也太帅了吧",
+        "不错嘛你，我就知道你能行",
+        "这波我给满分，真的满分",
+        "厉害厉害，我在这儿都看呆了"
+      ]
+    },
+    {
+      "id": "builtin-cheer",
+      "seq": "Ctrl+Alt+2",
+      "act": "lines",
+      "on": true,
+      "lines": [
+        "别急别急，慢慢来嘛，我陪着你",
+        "加油哦，再撑一小会儿就顺了",
+        "有点难对吧？歇口气再来"
+      ]
+    },
+    {
+      "id": "builtin-tease",
+      "seq": "Ctrl+Alt+3",
+      "act": "lines",
+      "on": true,
+      "lines": [
+        "就这？……好吧，其实也还行啦",
+        "又摸鱼？我可都记在小本本上了哦",
+        "行吧，看在你这么认真的份上，我不说了"
+      ]
+    }
+  ],
+  "back_greet": true,
+  "fullscreen_silent": true,
+  "quiet_minutes": 30,
+  "music_link": true,
+  "music_lyrics": true,
+  "perf_mode": true,
+  "custom_skins": {},
+  "skin_library": {
+    "pet": [],
+    "widget": []
+  },
+  "skin_draft": {},
+  "skin_pick_dir": "",
+  "balance_source": "DeepSeek",
+  "other_keys": [],
+  "double_click": "balance",
+  "sys_monitor_on": true,
+  "custom_process_lines": {},
+  "default_line_overrides": {},
+  "custom_lines": {},
+  "lines_off": [],
+  "agent_name": "Codex",
+  "agent_sessions_dir": "",
+  "codex_sessions_dir": "",
+  "menu_debug": false,
+  "custom_sounds": {},
+  "still_face_cursor": false,
+  "mem_skip_foreground": true,
+  "console_bg_path": "",
+  "console_bg_fit_window": true,
+  "console_bg_focus": "cc",
+  "console_bg_bright": 0,
+  "console_bg_blur": 0,
+  "console_bg_scrim": 34,
+  "console_brand_title": "大肥鱼桌宠",
+  "console_logo_path": "",
+  "console_accent": "",
+  "console_card_alpha": 100,
+  "console_card_radius": 12,
+  "console_remember_geo": true,
+  "console_geo": "",
+  "console_start_page": "balance",
+  "dsh_link": true,
+  "dsh_debug": false,
+  "sing_on": true
+}

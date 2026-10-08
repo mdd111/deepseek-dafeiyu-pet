@@ -1,0 +1,36 @@
+# 运行时配置：含 API Key，绝对不要提交
+config.json
+
+# 本地数据
+usage.json
+app_time.json
+lyrics_cache.json
+
+# 日志
+*.log
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 打包产物
+build/
+dist/
+*.exe
+*.zip
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 生成的动作帧报告（可重建）
+工具/生成报告.txt
+生成报告.txt

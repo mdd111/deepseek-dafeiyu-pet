@@ -1,0 +1,17 @@
+<!-- 空状态插图：搜不到（同一个放大镜 + 一条被划掉的下划线） -->
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="1.75"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <circle cx="10.5" cy="10.5" r="6.5" />
+  <path d="m20.5 20.5-4.7-4.7" />
+  <path d="M8 8.5 13 13.5" />
+  <path d="M13 8.5 8 13.5" />
+</svg>
