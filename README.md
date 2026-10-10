@@ -1,4 +1,3 @@
-<img width="1792" height="2400" alt="Imag" src="https://github.com/user-attachments/assets/e49e82d8-5852-4c1e-bdf8-699cdf131270" />
 # 大肥鱼桌宠 · 增强版 🐋
 
 DeepSeek 社区二创形象「鲸鱼娘 · 大肥鱼」的 Windows 桌面宠物。
