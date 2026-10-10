@@ -1,3 +1,4 @@
+<img width="1792" height="2400" alt="Imag" src="https://github.com/user-attachments/assets/e49e82d8-5852-4c1e-bdf8-699cdf131270" />
 # 大肥鱼桌宠 · 增强版 🐋
 
 DeepSeek 社区二创形象「鲸鱼娘 · 大肥鱼」的 Windows 桌面宠物。
@@ -6,7 +7,7 @@ DeepSeek 社区二创形象「鲸鱼娘 · 大肥鱼」的 Windows 桌面宠物�
 并**新增了「跟着 DSH 干活」的立绘联动**。
 
 ![大肥鱼](sprites/dsh/working/1_306.png)
-
+<img width="1792" height="2400" alt="Imag" src="https://github.com/user-attachments/assets/d467fa11-8e3f-4bd1-adbf-28f1a4f14e8a" />
 ---
 
 ## 这个版本做了什么
@@ -17,7 +18,7 @@ DeepSeek 社区二创形象「鲸鱼娘 · 大肥鱼」的 Windows 桌面宠物�
 | **并入** | 1190fasheqi/dafeiyu-pet 的三项：**AI 对话 / 喂食 / 系统监控** |
 | **新增** | **DSH 联动**：11 个动作跟着 DeepSeek Harness 干活实时换立绘 |
 | **新增** | 天气按时段播报、放歌换立绘、思考中姿势、13 页设置窗口 |
-
+抛砖引玉，感觉桌宠联合DSH还能干很多，但是自己第一次搞都是ds带着弄。
 ---
 
 ## 功能
